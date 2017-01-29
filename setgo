@@ -1,0 +1,3 @@
+export GOPATH=/e/learning/mapi
+export GOBIN=/e/Go/bin/go
+export GOROOT=/e/Go
